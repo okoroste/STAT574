@@ -10,7 +10,8 @@
         <p>5. K-NEAREST NEIGHBOR LECTURE.PDF&nbsp;&nbsp;&nbsp;CODES.ZIP</p>
           <p>6. NAIVE BAYES LECTURE.PDF&nbsp;&nbsp;&nbsp;<a href="NAIVE_BAYES_CODES.zip">CODES.ZIP</a></p>
             <p>7. ARTIFICIAL NEURAL NETWORK LECTURE.PDF&nbsp;&nbsp;&nbsp;<a href="ANN_CODES.zip">CODES.ZIP</a></p>
-            <p>8. RECURRENT NEURAL NETWORK LECTURE.PDF&nbsp;&nbsp;&nbsp;<a href="RNN_CODES.zip">CODES.ZIP</a></p>
+            <p>8. RECURRENT NEURAL NETWORK LECTURE.PDF&nbsp;&nbsp;&nbsp;<a href="RNN_DATASETS.zip">DATASETS.ZIP</a>&nbsp;&nbsp;&nbsp;
+              <a href="RNN_CODES.zip">CODES.ZIP</a></p>
             <p>9. CHANGE-POINT DETECTION LECTURE.PDF&nbsp;&nbsp;&nbsp;<a href="CPD_CODES.zip">CODES.ZIP</a></p>
             <p>10. ANOMALY DETECTION LECTURE.PDF&nbsp;&nbsp;&nbsp;<a href="ANOMALY_DETECTION_CODES.zip">CODES.ZIP</a></p>
             <p>11. CONVOLUTIONAL NEURAL NETWORK LECTURE.PDF&nbsp;&nbsp;&nbsp;<a href="CNN_CODES.zip">CODES.ZIP</a></p>
