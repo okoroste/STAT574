@@ -15,6 +15,6 @@
 <p><a href="DATASETS_TOPICS9-10.zip">DATASETS FOR TOPICS 9 AND 10.ZIP</a></p>
             <p>9. CHANGE-POINT DETECTION LECTURE.PDF&nbsp;&nbsp;&nbsp;<a href="CPD_CODES.zip">CODES.ZIP</a></p>
             <p>10. ANOMALY DETECTION LECTURE.PDF&nbsp;&nbsp;&nbsp;<a href="ANOMALY_DETECTION_CODES.zip">CODES.ZIP</a></p>
-            <p>11. CONVOLUTIONAL NEURAL NETWORK LECTURE.PDF&nbsp;&nbsp;&nbsp;<a href="CNN_CODES.zip">CODES.ZIP</a></p>
-      <p>12. NATURAL LANGUAGE PROCESSING LECTURE.PDF&nbsp;&nbsp;&nbsp;<a href="NLP_CODES.zip">CODES.ZIP</a></p>
+            <p>11. CONVOLUTIONAL NEURAL NETWORK LECTURE.PDF&nbsp;&nbsp;&nbsp;CODES.ZIP</p>
+      <p>12. NATURAL LANGUAGE PROCESSING LECTURE.PDF&nbsp;&nbsp;&nbsp;CODES.ZIP</p>
  </html>
