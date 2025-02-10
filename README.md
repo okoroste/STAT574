@@ -6,7 +6,7 @@
   <p><a href="1. Decision Tree.pdf">1. DECISION TREE LECTURE.PDF</a>&nbsp;&nbsp;&nbsp;<a href="DECISION_TREE_CODES.zip">CODES.ZIP</a></p>
   <p><a href="2. Random Forest.pdf">2. RANDOM FOREST LECTURE.PDF</a>&nbsp;&nbsp;&nbsp;<a href="RANDOM_FOREST_CODES.zip">CODES.ZIP</a></p>
     <p><a href="3. Gradient Boosting.pdf">3. GRADIENT BOOSTING LECTURE.PDF</a>&nbsp;&nbsp;&nbsp;<a href="GRADIENT_BOOSTING_CODES.zip">CODES.ZIP</a></p>
-      <p><a href="4. Support Vector Machine.pdf">4. SUPPORT VECTOR MACHINE LECTURE.PDF</a>a&nbsp;&nbsp;&nbsp;<a href="movie_data_ind.csv">MOVIE DATA WITH INDICATORS.CSV</a>&nbsp;&nbsp;&nbsp;<a href="SVM_CODES.zip">CODES.ZIP</a></p>
+      <p><a href="4. Support Vector Machine.pdf">4. SUPPORT VECTOR MACHINE LECTURE.PDF</a>&nbsp;&nbsp;&nbsp;<a href="movie_data_ind.csv">MOVIE DATA WITH INDICATORS.CSV</a>&nbsp;&nbsp;&nbsp;<a href="SVM_CODES.zip">CODES.ZIP</a></p>
         <p>5. K-NEAREST NEIGHBOR LECTURE.PDF&nbsp;&nbsp;&nbsp;CODES.ZIP</p>
           <p> <a href="6. Naive Bayes.pdf">6. NAIVE BAYES LECTURE.PDF</a>&nbsp;&nbsp;&nbsp;<a href="NAIVE_BAYES_CODES.zip">CODES.ZIP</a></p>
             <p>7. ARTIFICIAL NEURAL NETWORK LECTURE.PDF&nbsp;&nbsp;&nbsp;<a href="ANN_CODES.zip">CODES.ZIP</a></p>
