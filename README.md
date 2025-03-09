@@ -13,8 +13,8 @@
             <p>8. RECURRENT NEURAL NETWORK LECTURE.PDF&nbsp;&nbsp;&nbsp;<a href="RNN_DATASETS.zip">DATASETS.ZIP</a>&nbsp;&nbsp;&nbsp;
               <a href="RNN_CODES.zip">CODES.ZIP</a></p>
 <p><a href="DATASETS_TOPICS9-10.zip">DATASETS FOR TOPICS 9 AND 10.ZIP</a></p>
-            <p><a href="9. Change-Point Detection.pdf">9. CHANGE-POINT DETECTION LECTURE.PDF</a>&nbsp;&nbsp;&nbsp;<a href="CPD_CODES.zip">CODES.ZIP</a></p>
-            <p><a href="10. Anomaly Detection.pdf">10. ANOMALY DETECTION LECTURE.PDF</a>&nbsp;&nbsp;&nbsp;<a href="ANOMALY_DETECTION_CODES.zip">CODES.ZIP</a></p>
+            <p><a href="9. Change-Point Detection.pdf">9. CHANGE-POINT DETECTION LECTURE.PDF</a>&nbsp;&nbsp;&nbsp;<a href="ChangePointDetection.R">CODE.R</a></p>
+            <p><a href="10. Anomaly Detection.pdf">10. ANOMALY DETECTION LECTURE.PDF</a>&nbsp;&nbsp;&nbsp;<a href="AnomalyDetection.R">CODE.R</a></p>
             <p>11. CONVOLUTIONAL NEURAL NETWORK LECTURE.PDF&nbsp;&nbsp;&nbsp;CODES.ZIP</p>
       <p>12. NATURAL LANGUAGE PROCESSING LECTURE.PDF&nbsp;&nbsp;&nbsp;CODES.ZIP</p>
  </html>
