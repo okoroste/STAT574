@@ -9,7 +9,7 @@
       <p><a href="4. Support Vector Machine.pdf">4. SUPPORT VECTOR MACHINE LECTURE.PDF</a>&nbsp;&nbsp;&nbsp;<a href="movie_data_ind_without_rating.csv">MOVIE DATA WITH INDICATORS AND NO RATING.CSV</a>&nbsp;&nbsp;&nbsp;<a href="SVM_CODES.zip">CODES.ZIP</a></p>
         <p><a href="5. k-Nearest Neighbor.pdf">5. k-NEAREST NEIGHBOR LECTURE.PDF</a>&nbsp;&nbsp;&nbsp;<a href="kNN_CODES.zip">CODES.ZIP</a></p>
           <p> <a href="6. Naive Bayes.pdf">6. NAIVE BAYES LECTURE.PDF</a>&nbsp;&nbsp;&nbsp;<a href="NAIVE_BAYES_CODES.zip">CODES.ZIP</a></p>
-            <p><a href="7.Artificial Neural Network.pdf">7. ARTIFICIAL NEURAL NETWORK LECTURE.PDF</a>&nbsp;&nbsp;&nbsp;<a href="movie_data_ind_with_rating.csv">MOVIE DATA WITH INDICATORS AND RATING.CSV</a>&nbsp;&nbsp;&nbsp;<a href="ANN_CODES.zip">CODES.ZIP</a></p>
+            <p><a href="7. Artificial Neural Network.pdf">7. ARTIFICIAL NEURAL NETWORK LECTURE.PDF</a>&nbsp;&nbsp;&nbsp;<a href="movie_data_ind_with_rating.csv">MOVIE DATA WITH INDICATORS AND RATING.CSV</a>&nbsp;&nbsp;&nbsp;<a href="ANN_CODES.zip">CODES.ZIP</a></p>
             <p>8. RECURRENT NEURAL NETWORK LECTURE.PDF&nbsp;&nbsp;&nbsp;<a href="RNN_DATASETS.zip">DATASETS.ZIP</a>&nbsp;&nbsp;&nbsp;
               <a href="RNN_CODES.zip">CODES.ZIP</a></p>
             <p><a href="9. Change-Point Detection.pdf">9. CHANGE-POINT DETECTION LECTURE.PDF</a>&nbsp;&nbsp;&nbsp;<a href="ChangePointDetection.R">CODE.R</a></p>
